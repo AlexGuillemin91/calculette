@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="899385df-de53-4f1f-8e54-0e37ec2c964b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qvVKAeIIQzKHQqvXGnBiQCf7YG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="899385df-de53-4f1f-8e54-0e37ec2c964b" name="Default Changelist" comment="" />
+      <created>1617959983484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617959983484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="130" key="AndroidProcessChooserDialog" timestamp="1617962509300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="502" y="130" key="AndroidProcessChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1617962509300" />
+  </component>
+</project>
